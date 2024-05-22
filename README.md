@@ -6,3 +6,7 @@ Projeto Mussum Ipsum
 
 ## Projeto da aula de TEP
 - Conhecendo o Github
+- testando comandos git
+
+## Funcionando no VScode Web
+- Da para utiliza VS no WEB
